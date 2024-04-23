@@ -1,0 +1,44 @@
+
+#Header-id {
+	background-image: url("../img/header.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	position: sticky;
+}
+
+.pink-bg {
+	background-color: #1cc9a3;
+}
+
+.fondo-header {
+	opacity: 0.9;
+}
+.foto-perfil {
+	border-radius: 50%;
+	width: 15em;
+	max-width: 400px;
+	max-height: 400px;
+}
+
+
+.tamano { /*Tamaño maximo de tarjetas*/
+  width: auto;
+	height: 300px;
+}
+
+.color-fondo {
+	background-color: #20926e;
+}
+#carouselExampleAutoplaying {
+	width: 40rem;
+}
+nav {
+	position: sticky;
+}
+
+a:link {
+	color: #291e9e;
+	background-color: transparent;
+	text-decoration: none;
+  }
